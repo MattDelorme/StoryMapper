@@ -1,0 +1,3 @@
+[submodule "Assets/Source/Shared"]
+	path = Assets/Source/Shared
+	url = https://github.com/MattDelorme/Shared
