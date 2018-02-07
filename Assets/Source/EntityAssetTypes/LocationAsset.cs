@@ -3,11 +3,13 @@
 namespace StoryMapper
 {
     [CreateAssetMenu(menuName="Entities/Location")]
-    public class LocationAsset : ScriptableObject
+    public class LocationAsset : AbstractEntityAsset, ILocation
     {
-        public string Name;
+        [SerializeField] string _name = null;
+        public string Name { get { return _name; } }
 
         [TextArea]
-        public string Description;
+        [SerializeField] string description = null;
+        public string Description { get { return description; } }
     }
 }

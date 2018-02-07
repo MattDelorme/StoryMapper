@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 766056ebce55b5e419fed55fefa364ef, type: 3}
+  m_Name: Winterfell_CastleBlack
+  m_EditorClassIdentifier: 
+  route: {fileID: 0}
+  points:
+  - {x: 5.50148, y: 440.94125, z: 90}
+  - {x: 20.69791, y: 466.44302, z: 90}
+  - {x: 25.575218, y: 478.22107, z: 90}
+  - {x: 20.795753, y: 497.9762, z: 90}
+  - {x: 38.41292, y: 514.3214, z: 90}
+  - {x: 52.990356, y: 534.192, z: 90}
+  - {x: 68.27548, y: 548.30133, z: 90}
+  - {x: 78.26961, y: 570.2492, z: 90}
+  - {x: 91.265076, y: 573.5934, z: 90}
+  - {x: 101.981125, y: 595.7243, z: 90}
+  - {x: 108.64387, y: 617.2802, z: 90}
+  - {x: 107.14471, y: 636.26196, z: 90}
+  - {x: 111.92417, y: 669.08093, z: 90}
+  - {x: 108.73786, y: 680.5517, z: 90}

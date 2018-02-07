@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42f4d9a3bc0b6104b8e5419ee9ea14a3, type: 3}
   m_Name: JonSnow
   m_EditorClassIdentifier: 
-  Name: Jon Snow
+  _name: Jon Snow
